@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dou</string>
+    <string name="request_data">request data</string>
+    <string name="requesting">requesting…</string>
+    <string name="select_an_image">select an image</string>
+    <string name="upload_from_local">upload from local</string>
+    <string name="select_a_video">select a video</string>
+    <string name="post_it">post it!</string>
+    <string name="refresh_feed">refresh feed</string>
+    <string name="success_try_refresh">SUCCESS, try refresh!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+</resources>
